@@ -1,1 +1,3 @@
-This folder contains the data
+This folder contains the data sets
+1. The synthetic data is generated in the python file
+2. The movielens data is a .zip file
